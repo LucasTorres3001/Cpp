@@ -1,2 +1,2 @@
 # C++
- Here is the my programs develop in language **C++**.
+ Here are the my programs developed in language **C++**.
